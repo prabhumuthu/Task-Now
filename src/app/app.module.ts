@@ -13,7 +13,7 @@ import { HttpClientModule} from '@angular/common/http';
 
 
 const routes:Routes = [
-  {path:'login',component:LoginComponent},
+  {path:'',component:LoginComponent},
   {path:'regis',component:RegisComponent},
   {path:'task',component:TaskComponent},
     
